@@ -1,0 +1,8 @@
+=====================||  Tutos Page  ||==========================
+keys may help you :
+"enter" => add button
+"ctrl + n" => new page
+"ctrl + o" => open page
+"ctrl + s" => save page
+"escape" => exit
+===============================================================
